@@ -1,5 +1,4 @@
 /* место для вашего кода */
-
 .content-section {
   font-weight: 400;
   margin: auto;
@@ -60,7 +59,6 @@
   justify-content: center;
   justify-self: end;
   padding-right: 50px;
-  line-height: 1.20;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -82,7 +80,6 @@
 }
 
 .overlay {
-  z-index: 0;
   position: absolute;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.5);
@@ -91,7 +88,6 @@
 
 .cover__title {
   font-weight: 700;
-  font-style: Bold;
   font-size: 100px;
   line-height: 114.99999999999999%;
   letter-spacing: 30px;
@@ -138,7 +134,6 @@
 
 .cover__description-text {
   line-height: 28px;
-  text-transform: uppercase;
 }
 
 .bet-button {
@@ -249,7 +244,6 @@
   margin-top: auto;
   font-size: 20px;
   line-height: 120%;
-  font-weight: 200;
   padding: 0 40px 50px;
   font-weight: 400;
 }
@@ -313,8 +307,6 @@
   flex-direction: column;
   gap: 24px;
   font-size: 20px;
-  font-weight: 400;
-  line-height: 1.2;
   max-width: 100%;
   line-height: 24px;
 }
