@@ -70,7 +70,6 @@
 .address-link .address-text {
   font-weight: 400;
   font-size: 18px;
-  line-height: 24.3px;
 }
 
 .cover {
@@ -154,9 +153,6 @@
   left: 794px;
   opacity: 1;
   padding: 12px 32px;
-}
-
-.bet-button:hover {
 }
 
 .lots {
