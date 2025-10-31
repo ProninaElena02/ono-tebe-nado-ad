@@ -1,1 +1,1 @@
-https://github.com/ProninaElena02/ono-tebe-nado-ad/tree/main
+https://github.com/ProninaElena02/ono-tebe-nado-ad
